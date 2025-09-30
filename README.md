@@ -1,6 +1,6 @@
 # SotN_Integrated_Rando
 
-Video Tutorial: coming soon..
+Video Tutorial: https://youtu.be/dWpGx8LZtOs
 
 # Castlevania Symphony of the Night - Integrated Randomizer
 
