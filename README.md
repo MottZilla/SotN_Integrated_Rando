@@ -10,7 +10,7 @@ Download the latest version from Releases on the Github page. Apply the PPF patc
 MD5: acbb3a2e4a8f865f363dc06df147afa2
 CRC32: 05BE47B2
 
-Once your file is patched if you want to play Maria mode you will need to use the tool located here: https://github.com/MottZilla/MariaGfxImport
+Once your file is patched if you want to play Maria mode (optional, not required) you will need to use the tool located here: https://github.com/MottZilla/MariaGfxImport
 
 Use the buttons and follow the prompts. You will first select your PSP Dracula X Chronicles ISO and then click the Import GFX and Export PSX Maria BIN button. Once you have the Maria.BIN file you should see the buttons to select your PSX Track 1 BIN. Select the Track 1 BIN you applied the PPF patch to and then check the checkbox for Import for Integrated Console Rando. Click Import Maria.BIN. It is advised to put all the files in the same folder while doing these steps to make it easier.
 
