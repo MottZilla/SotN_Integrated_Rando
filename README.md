@@ -10,13 +10,13 @@ Download the latest version from Releases on the Github page. Apply the PPF patc
 MD5: acbb3a2e4a8f865f363dc06df147afa2
 CRC32: 05BE47B2
 
-Once your file is patched if you want to play Maria mode (optional, not required) you will need to use the tool located here: https://github.com/MottZilla/MariaGfxImport
+Once your file is patched if you want to play Maria PSP mode (optional, not required) you will need to use the tool located here: https://github.com/MottZilla/MariaGfxImport
 
 Use the buttons and follow the prompts. You will first select your PSP Dracula X Chronicles ISO and then click the Import GFX and Export PSX Maria BIN button. Once you have the Maria.BIN file you should see the buttons to select your PSX Track 1 BIN. Select the Track 1 BIN you applied the PPF patch to and then check the checkbox for Import for Integrated Console Rando. Click Import Maria.BIN. It is advised to put all the files in the same folder while doing these steps to make it easier.
 
 2. Loading the Randomizer (Platforms)
 
-The randomizer is compatible with original PS1 consoles, PS2 consoles, and emulators. I personally tested it on the PS1 SCPH-7501, PS2 SCPH-50001, the MiSTer PSX Core, and BizHawk's Nymashock PSX Core. If you plan to burn a CD-R for play on a real system you should do the steps to install the MARIA.BIN first as you can't do that once you've burned a disc. Before burning the disc you should test on an emulator to know it's working. If you installed Maria you should test her mode on emulator before burning! You also will need to have a method of booting the CD-R as unmodified consoles will not start it normally. 
+The randomizer is compatible with original PS1 consoles, PS2 consoles, and emulators. I personally tested it on the PS1 SCPH-7501, PS2 SCPH-50001, the MiSTer PSX Core, and BizHawk's Nymashock PSX Core. If you plan to burn a CD-R for play on a real system you should do the steps to install the PSP MARIA.BIN first as you can't do that once you've burned a disc. Before burning the disc you should test on an emulator to know it's working. If you installed Maria you should test her mode on emulator before burning! You also will need to have a method of booting the CD-R as unmodified consoles will not start it normally. 
 
 3. Console Boot Methods
 
