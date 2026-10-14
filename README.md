@@ -36,7 +36,7 @@ When you start a randomizer playthru you select the Preset and get a random Seed
 
 6. Saving the Game
 
-If you plan to save your game and resume playing a Seed later you need to note the Preset chosen, Seed #, and any option changes from the default settings. You can see the Preset and Seed # in the Pause screen while playing. When you reload the game after saving you will need to select the same Preset and Seed # and should select the same options if you changed any from the preset's default options. If you do this you should have no trouble resuming your randomizer seed later!
+You can save the seed config to memory card before starting and then reload it at a later time in the menu. You can do this manually too. You can note the Preset chosen, Seed #, and any option changes from the default settings. You can see the Preset and Seed # in the Pause screen while playing. When you reload the game after saving you will need to select the same Preset and Seed # and should select the same options if you changed any from the preset's default options. If you do this you should have no trouble resuming your randomizer seed later! It is recommended to use the Memory Card option to save and reload seeds but the old method still works.
 
 7. Helpful Tips
 
